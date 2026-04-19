@@ -1125,7 +1125,7 @@
         <div class="cover-content">
 
             <h1>Deborah Nyanchama</h1>
-            <p class="title">Digital Marketing Specialist</p>
+            <p class="title">Digital Sales & Marketing Specialist</p>
             <p class="cover-tagline">Driving measurable growth through strategic prospecting, client acquisition, and digital advertising solutions. Transforming leads into lasting partnerships.</p>
             <div class="cover-stats">
                 <div class="stat-item">
