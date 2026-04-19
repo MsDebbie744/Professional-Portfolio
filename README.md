@@ -1115,7 +1115,6 @@
             <li><a href="#industry">Industry</a></li>
         </ul>
     </nav>
-
     <!-- Cover Section -->
     <section id="cover" class="cover-section">
         <div class="geometric-shapes">
