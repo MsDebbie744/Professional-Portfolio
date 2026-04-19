@@ -1113,7 +1113,6 @@
             <li><a href="#achievements">Impact</a></li>
             <li><a href="#tools">Tools</a></li>
             <li><a href="#industry">Industry</a></li>
-            <li><a href="#contact">Contact</a></li>
         </ul>
     </nav>
 
