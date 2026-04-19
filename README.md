@@ -1165,7 +1165,7 @@
                 <p>Expert in leveraging CRM tools, digital marketing analytics, and market research to identify opportunities, optimize pipelines, and exceed sales targets consistently. Passionate about connecting brands with their ideal audiences through strategic advertising placement.</p>
             </div>
             <div class="summary-image">
-                <img src="file:///C:/Users/agoro/Downloads/Ad%20solutions.png" alt="Sales Executive Presenting Advertising Solutions">
+                <img src="Ad solutions.png" alt="Sales Executive Presenting Advertising Solutions">
             </div>
         </div>
     </section>
@@ -1474,7 +1474,7 @@
                 </div>
             </div>
             <div class="achievement-visual">
-                <img src="file:///C:/Users/agoro/Downloads/Growth&sales.png" alt="Business Growth and Sales Success">
+                <img src="Growth&sales.png" alt="Business Growth and Sales Success">
             </div>
         </div>
     </section>
@@ -1533,7 +1533,7 @@
                 <img src="https://kimi-web-img.moonshot.cn/img/siliconvalley.center/66939effb2988a42685f33d45f68a48eeab6e396.jpg" alt="Digital vs Print Advertising Comparison" style="width: 100%; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
             </div>
             <div>
-                <img src="file:///C:/Users/agoro/Downloads/CRM%20mgt.png" alt="CRM and Client Management" style="width: 100%; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
+                <img src="CRM mgt.png" alt="CRM and Client Management" style="width: 100%; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);">
             </div>
         </div>
     </section>
@@ -1559,10 +1559,10 @@
                 </ul>
             </div>
             <div class="industry-image ">
-                <img src="file:///C:/Users/agoro/Downloads/Digital%20Industry%20woman.png" alt="Digital and Industry Trends">
+                <img src="Digital & Industry trends.png" alt="Digital and Industry Trends">
             </div>
             <div class="industry-image">
-                <img src="file:///C:/Users/agoro/Downloads/Digital%20&%20Industry%20trends.png" alt="Digital and Industry Trends 2">
+                <img src="Digital Industry woman.png" alt="Digital and Industry Trends 2">
             </div>    
         </div>
     </section>
